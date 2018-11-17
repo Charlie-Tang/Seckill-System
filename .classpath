@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/官方最小包/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/byte-buddy-1.8.12.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/freemarker-2.3.26-incubating.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/hibernate-c3p0-5.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/hibernate-commons-annotations-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/hibernate-core-5.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/javassist-3.22.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/log4j-api-2.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/ognl-3.1.15.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-aop-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-aspects-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-beans-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-context-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-context-support-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-core-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-expression-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-instrument-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-instrument-tomcat-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-jdbc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-jms-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-messaging-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-orm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-oxm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-test-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-tx-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-webmvc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-webmvc-portlet-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-websocket-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/struts2-core-2.5.16.jar"/>
+	<classpathentry kind="lib" path="E:/官方最小包/spring-web-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
